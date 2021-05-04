@@ -1,7 +1,7 @@
 print('Zombie Adventure Story')
 person = input('What is your name? Type Here. ')
 print('Greetings, ' + person)
-d = input('You are in a Zombie pandemic. Do you choose to find the nearest Gun shop(1) or '
+d = input('You are in a Zombie Pandemic. Do you choose to find the nearest Gun shop(1) or '
               'Go to the grocery store(2) ')
 if d == '1':
     print('You have decided to find the nearest Gun shop')
